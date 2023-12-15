@@ -36,7 +36,7 @@
     "@fastly/js-compute": "^1.4.1",
     "@financial-times/polyfill-useragent-normaliser": "^1.10.2",
     "@jakechampion/c-at-e-file-server": "^0.0.2-main",
-    "hono": "^3.0.3",
+    "hono": "^3.11.7",
     "mnemonist": "^0.39.5",
     "toposort": "^2.0.2"
   },
